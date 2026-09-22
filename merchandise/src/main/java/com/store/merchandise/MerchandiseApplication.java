@@ -8,6 +8,8 @@ public class MerchandiseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MerchandiseApplication.class, args);
+		
+		System.out.println("Lets test changes to commit");
 	}
 
 }
